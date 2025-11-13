@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine Kharkhach
 
-<!--
-**yassinekharkhache/yassinekharkhache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full Stack Developer** | 💻 Passionate about building scalable web applications and clean architectures  
+🌍 Based in Morocco | 📫 **enissay.yk@gmail.com**  
+🔗 [LinkedIn](https://linkedin.com/in/yassine-kharkhach) | [Portfolio](#)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a Full Stack Developer experienced in **Golang**, **Java (Spring Boot, Spring MVC)**, **Node.js**, **React**, **Angular**, and **Next.js**.  
+I love designing efficient backend systems, crafting responsive frontends, and exploring DevOps workflows.  
+I focus on **code clarity**, **performance**, and **continuous learning**.
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend:**  
+HTML5 • CSS3 • JavaScript (ES6+) • React • Angular • Next.js  
+
+**Backend:**  
+Golang • Node.js • Java (Spring Boot, Spring Security, Spring Data)  
+
+**Databases:**  
+PostgreSQL • MySQL • SQLite • MongoDB  
+
+**DevOps & Tools:**  
+Docker • Git • Postman • NPM • Cargo 
