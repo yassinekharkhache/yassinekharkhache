@@ -2,7 +2,7 @@
 
 🎯 **Full Stack Developer** | 💻 Passionate about building scalable web applications and clean architectures  
 🌍 Based in Morocco | 📫 **enissay.yk@gmail.com**  
-🔗 [LinkedIn](https://linkedin.com/in/yassine-kharkhach) | [Portfolio](#)  
+🔗 [LinkedIn](https://linkedin.com/in/yassine-kharkhach).  
 
 ---
 
